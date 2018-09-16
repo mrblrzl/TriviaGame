@@ -1,0 +1,7 @@
+Trivia Game
+Version 1.0 9/15/18
+
+
+Pick the correct answer for each of the questions. 
+You have 30 seconds! 
+At the end of the game, you will know your score. 
